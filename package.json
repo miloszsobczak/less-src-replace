@@ -1,6 +1,6 @@
 {
   "name": "less-src-replace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LESS plugin to copy all src files into one flatten structure.",
   "main": "index.js",
   "repository": {
