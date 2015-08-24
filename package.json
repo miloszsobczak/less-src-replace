@@ -1,6 +1,6 @@
 {
   "name": "less-src-replace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "LESS plugin to copy all src files into one flatten structure.",
   "main": "index.js",
   "repository": {
@@ -12,9 +12,18 @@
   },
   "keywords": [
     "less",
+    "css",
+    "plugin",
+    "less plugin",
     "less plugin",
     "replace src",
-    "static"
+    "less replace src",
+    "less replace static",
+    "flatten",
+    "flatten structure",
+    "flatten static",
+    "static",
+    "static files"
   ],
   "author": "Miłosz Sobczak <miloszsobczak@pixers.pl>",
   "license": "BSD"
