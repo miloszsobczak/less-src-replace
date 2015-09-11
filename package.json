@@ -1,6 +1,6 @@
 {
   "name": "less-src-replace",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "LESS plugin to copy all src files into one flatten structure.",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,8 @@
     "url": "https://github.com/miloszsobczak/less-src-replace"
   },
   "dependencies": {
-    "mkdirp": "0.5.1"
+    "mkdirp": "0.5.1",
+    "md5": "2.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
